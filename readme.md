@@ -37,5 +37,5 @@
  - [ ] Add trained weights 
  - [ ] Add sample outputs
 
-Reference
-    1.YOLOv5
+## Reference <br>
+1. YOLOv5 repo https://github.com/ultralytics/yolov5
