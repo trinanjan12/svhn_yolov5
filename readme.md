@@ -33,9 +33,17 @@
 1. run the command below from  **./yolov5_exp/yolov5/** folder. check out inference inside **./yolov5_exp/yolov5/runs/detect**<br>
 `python detect.py --source /home/deep/Pictures/test_final --weights ./runs/train/test_combined/weights/best.pt --conf 0.25 --save-txt --save-conf`
 
-# TODO
- - [ ] Add trained weights 
- - [ ] Add sample outputs
+## Weights Download Link
+Download models from the google drive https://drive.google.com/file/d/1NBNelnMTIsM_V1-vKx3x2z8x8_2mtjW6/view?usp=sharing
+
+## Results
+![Output1](./sample_output/1074.png)
+![Output2](./sample_output/1145.png)
+![Output3](./sample_output/10056.png)
+
+## TODO
+ - [x] Add trained weights 
+ - [x] Add sample outputs
 
 ## Reference <br>
 1. YOLOv5 repo https://github.com/ultralytics/yolov5
