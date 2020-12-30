@@ -34,7 +34,7 @@
 `python detect.py --source /home/deep/Pictures/test_final --weights ./runs/train/test_combined/weights/best.pt --conf 0.25 --save-txt --save-conf`
 
 ## Weights Download Link
-Download models from the google drive https://drive.google.com/file/d/1NBNelnMTIsM_V1-vKx3x2z8x8_2mtjW6/view?usp=sharing
+Download models from the google drive https://drive.google.com/file/d/1Ez_Y_Uolf2cpndB6e40erdDUAHqNVO_S/view?usp=sharing
 
 ## Results
 ![Output1](./sample_output/1074.png)
